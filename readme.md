@@ -1,5 +1,5 @@
 # Teste e Qualidade de Software
-*Weslem Rodrigues e Silva*
+**Weslem Rodrigues e Silva**
 - Junit4
 
 ## Comandos para executar os testes
