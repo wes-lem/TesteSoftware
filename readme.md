@@ -6,7 +6,7 @@
 
 | # | Atividade        | Pasta / Arquivo    | Autor              |
 |---|------------------|--------------------|--------------------|
-| 1 | Projeto Java     | [Projeto Java](Projeto%20Java)         | Weslem |
+| 1 | Projeto Java     | [Projeto Java](Projeto%20Java)         | Weslem e Iasmin |
 | 2 | Prática JUnit 01 | [CalendarDay](CalendarDay)             | Weslem |
 | 3 | Prática JUnit 02 | [CompareSubstrings](CompareSubstrings) | Weslem |
 | 4 | Prática JUnit 03 | [ValidateIp](ValidateIp)               | Weslem |
