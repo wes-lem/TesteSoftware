@@ -6,33 +6,27 @@
 
 | # | Atividade        | Pasta              | Autor              |
 |---|------------------|--------------------|--------------------|
-| 1 | Prática JUnit 02 | [CompareSubstrings](CompareSubstrings) | Weslem Rodrigues e Silva |
-| 2 | Employee         | [Employee](Employee)                   | Weslem Rodrigues e Silva |
-| 3 | Projeto Java     | [Projeto Java](Projeto%20Java)         | Weslem Rodrigues e Silva |
+| 1 | Prática JUnit 01 | [CalendarDay](CalendarDay)             | Weslem Rodrigues e Silva |
+| 2 | Prática JUnit 02 | [CompareSubstrings](CompareSubstrings) | Weslem Rodrigues e Silva |
+| 3 | ValidateIp       | [ValidateIp](ValidateIp)               | Weslem Rodrigues e Silva |
+| 4 | Employee         | [Employee](Employee)                   | Weslem Rodrigues e Silva |
+| 5 | Projeto Java     | [Projeto Java](Projeto%20Java)         | Weslem Rodrigues e Silva |
 
-## Estrutura
-- **Projeto Java** – testes do projeto Payable/Employee (Date, Invoice, funcionários). Ver `Projeto Java/DOCUMENTACAO_TESTES.md` e `Projeto Java/GUIA_INSTALACAO_E_COMANDOS.md`.
-- **Employee** – EmployeeDetails + TestEmployeeDetails.
-- **CompareSubstrings** – CompareSubstrings + TestCompareSubstrings.
+## Comandos (resumo)
+Comandos completos em cada pasta: ver **README** na pasta da atividade.
 
-## Projeto Java – rodar testes
-Coloque os JARs (junit e hamcrest) em `Projeto Java/lib`. Na pasta `Projeto Java`:
+**CalendarDay** – ver [CalendarDay/README.md](CalendarDay/README.md)
 
-**Windows:**
+**CompareSubstrings** – na pasta: `javac -cp .:/usr/share/java/junit4.jar *.java` e `java -cp .:/usr/share/java/junit4.jar org.junit.runner.JUnitCore TestCompareSubstrings` (Linux)
+
+**ValidateIp** – ver [ValidateIp/README.md](ValidateIp/README.md)
+
+**Employee** (Linux):
 ```bash
-javac -cp ".;lib\*" *.java
-java -cp ".;lib\*" org.junit.runner.JUnitCore AllTests
-```
-
-**Linux:**
-```bash
-javac -cp ".:lib/*" *.java
-java -cp ".:lib/*" org.junit.runner.JUnitCore AllTests
-```
-
-## Employee – rodar testes (Linux)
-```bash
+cd Employee
 sudo apt install junit4
-javac -cp .:/usr/share/java/junit4.jar EmployeeDetails.java TestEmployeeDetails.java
+javac -cp .:/usr/share/java/junit4.jar *.java
 java -cp .:/usr/share/java/junit4.jar org.junit.runner.JUnitCore TestEmployeeDetails
 ```
+
+**Projeto Java** – ver [Projeto Java/GUIA_INSTALACAO_E_COMANDOS.md](Projeto%20Java/GUIA_INSTALACAO_E_COMANDOS.md). Resumo: coloque JARs em `Projeto Java/lib`; na pasta `Projeto Java`, Windows `javac -cp ".;lib\*" *.java` e `java -cp ".;lib\*" org.junit.runner.JUnitCore AllTests`; Linux use `.:lib/*` no lugar de `.;lib\*`.
