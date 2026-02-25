@@ -6,11 +6,11 @@
 
 | # | Atividade        | Pasta / Arquivo    | Autor              |
 |---|------------------|--------------------|--------------------|
-| 1 | Prática JUnit 01 | [CalendarDay](CalendarDay)             | Weslem |
-| 2 | Prática JUnit 02 | [CompareSubstrings](CompareSubstrings) | Weslem |
-| 3 | Prática JUnit 03 | [ValidateIp](ValidateIp)               | Weslem |
-| 4 | Employee         | [Employee](Employee)                   | Weslem |
-| 5 | Projeto Java     | [Projeto Java](Projeto%20Java)         | Weslem |
+| 1 | Projeto Java     | [Projeto Java](Projeto%20Java)         | Weslem |
+| 2 | Prática JUnit 01 | [CalendarDay](CalendarDay)             | Weslem |
+| 3 | Prática JUnit 02 | [CompareSubstrings](CompareSubstrings) | Weslem |
+| 4 | Prática JUnit 03 | [ValidateIp](ValidateIp)               | Weslem |
+| 5 | Employee         | [Employee](Employee)                   | Weslem |
 | 6 | Exercícios - Unidade 01 | [PDF](01AtividadeTesteSoft.pdf) | Weslem |
 | 7 | Exercícios - Unidade 03 e 04 | [PDF](Lista%20de%20Exerc%C3%ADcios%20-%20Unidade%2003%20e%2004.pdf) | Weslem |
 
