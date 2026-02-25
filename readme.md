@@ -8,7 +8,7 @@
 |---|------------------|--------------------|--------------------|
 | 1 | Prática JUnit 01 | [CalendarDay](CalendarDay)             | Weslem Rodrigues e Silva |
 | 2 | Prática JUnit 02 | [CompareSubstrings](CompareSubstrings) | Weslem Rodrigues e Silva |
-| 3 | ValidateIp       | [ValidateIp](ValidateIp)               | Weslem Rodrigues e Silva |
+| 3 | Prática JUnit 03 | [ValidateIp](ValidateIp)               | Weslem Rodrigues e Silva |
 | 4 | Employee         | [Employee](Employee)                   | Weslem Rodrigues e Silva |
 | 5 | Projeto Java     | [Projeto Java](Projeto%20Java)         | Weslem Rodrigues e Silva |
 
