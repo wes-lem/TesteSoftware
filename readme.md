@@ -6,11 +6,12 @@
 
 | # | Atividade        | Pasta              | Autor              |
 |---|------------------|--------------------|--------------------|
-| 1 | Prática JUnit 01 | [CalendarDay](CalendarDay)             | Weslem Rodrigues e Silva |
-| 2 | Prática JUnit 02 | [CompareSubstrings](CompareSubstrings) | Weslem Rodrigues e Silva |
-| 3 | Prática JUnit 03 | [ValidateIp](ValidateIp)               | Weslem Rodrigues e Silva |
-| 4 | Employee         | [Employee](Employee)                   | Weslem Rodrigues e Silva |
-| 5 | Projeto Java     | [Projeto Java](Projeto%20Java)         | Weslem Rodrigues e Silva |
+| 1 | Prática JUnit 01 | [CalendarDay](CalendarDay)             | Weslem |
+| 2 | Prática JUnit 02 | [CompareSubstrings](CompareSubstrings) | Weslem |
+| 3 | Prática JUnit 03 | [ValidateIp](ValidateIp)               | Weslem |
+| 4 | Employee         | [Employee](Employee)                   | Weslem |
+| 5 | Projeto Java     | [Projeto Java](Projeto%20Java)         | Weslem |
+| 6 | Exercícios - Unidade 03 e 04 | [PDF](Lista%20de%20Exerc%C3%ADcios%20-%20Unidade%2003%20e%2004.pdf) | Weslem |
 
 ## Comandos (resumo)
 Comandos completos em cada pasta: ver **README** na pasta da atividade.
