@@ -2,6 +2,14 @@
 **Weslem Rodrigues e Silva**
 - JUnit 4
 
+## Atividades
+
+| # | Atividade        | Pasta              | Autor              |
+|---|------------------|--------------------|--------------------|
+| 1 | Prática JUnit 02 | [CompareSubstrings](CompareSubstrings) | Weslem Rodrigues e Silva |
+| 2 | Employee         | [Employee](Employee)                   | Weslem Rodrigues e Silva |
+| 3 | Projeto Java     | [Projeto Java](Projeto%20Java)         | Weslem Rodrigues e Silva |
+
 ## Estrutura
 - **Projeto Java** – testes do projeto Payable/Employee (Date, Invoice, funcionários). Ver `Projeto Java/DOCUMENTACAO_TESTES.md` e `Projeto Java/GUIA_INSTALACAO_E_COMANDOS.md`.
 - **Employee** – EmployeeDetails + TestEmployeeDetails.
